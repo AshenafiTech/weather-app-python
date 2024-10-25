@@ -1,4 +1,3 @@
-# weather-app-python
 # Weather Forecast App
 
 This is a simple weather forecast application built using Python and Tkinter. It fetches current weather and 5-day forecast data from the OpenWeatherMap API.
@@ -20,7 +19,7 @@ This is a simple weather forecast application built using Python and Tkinter. It
 
 2. **Navigate to the project directory**:
     ```sh
-    cd weather-forecast-app
+    cd weather-app-python
     ```
 
 3. **Create and activate a virtual environment**:
@@ -47,3 +46,5 @@ This is a simple weather forecast application built using Python and Tkinter. It
     ```
 
 2. **Enter a location and click the button to fetch weather data**.
+
+## Project Structure
