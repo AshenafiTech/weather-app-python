@@ -36,7 +36,7 @@ This is a simple weather forecast application built using Python and Tkinter. It
 ## Configuration
 1. **Set the OpenWeatherMap API key as an environment variable**:
     ```sh
-    export OPENWEATHERMAP_API_KEY='your_actual_api_key'
+    export OPENWEATHERMAP_API_KEY='your_api_key'
     ```
 
 ## Usage
