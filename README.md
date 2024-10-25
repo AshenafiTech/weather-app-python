@@ -15,7 +15,7 @@ This is a simple weather forecast application built using Python and Tkinter. It
 ## Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/weather-forecast-app.git
+    git clone https://github.com/AshenafiTech/weather-forecast-app.git
     ```
 
 2. **Navigate to the project directory**:
