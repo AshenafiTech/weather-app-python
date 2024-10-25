@@ -46,5 +46,3 @@ This is a simple weather forecast application built using Python and Tkinter. It
     ```
 
 2. **Enter a location and click the button to fetch weather data**.
-
-## Project Structure
